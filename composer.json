@@ -1,5 +1,6 @@
 {
     "name": "mmarchwiany/state-machine",
+    "license": "MIT",
     "authors": [
         {
             "name": "Marcin Marchwiany",
